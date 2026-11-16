@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-16",
+  "timezone": "America/Los_Angeles",
+  "events": [
+    {"id": "design-review", "summary": "Fictional Cardinal design review", "start": {"dateTime": "2026-11-16T10:00:00-08:00"}, "end": {"dateTime": "2026-11-16T11:00:00-08:00"}},
+    {"id": "lab-sync", "summary": "Fictional Bluebird lab sync", "start": {"dateTime": "2026-11-16T10:30:00-08:00"}, "end": {"dateTime": "2026-11-16T11:30:00-08:00"}},
+    {"id": "reading", "summary": "Fictional independent reading", "start": {"dateTime": "2026-11-16T14:00:00-08:00"}, "end": {"dateTime": "2026-11-16T15:00:00-08:00"}}
+  ]
+}
